@@ -41,9 +41,6 @@ export default function Home(props: HomeProps) {
     }
   }
 
-
-
-
   return (
     <div className='max-w-[1124px] h-screen mx-auto grid grid-cols-2 gap-28 items-center  '>
       <main>
